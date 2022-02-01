@@ -42,6 +42,7 @@ class MyApp extends StatelessWidget {
         '/reqPerm': (context) => const RequestPermissions(),
         '/proinfo': (context) => const ProfessionalDetails(),
         '/root': (context) => const RootPage()
+        // '/root': (context) => const RootPage()
       },
     );
   }
